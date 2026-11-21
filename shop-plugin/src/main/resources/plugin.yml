@@ -1,0 +1,58 @@
+name: Shop
+version: 1.0.0
+main: com.eaglercraft.shop.ShopPlugin
+description: Player item listings, barter offers, and a persistent balance
+commands:
+  shop:
+    description: Open the player shop
+    usage: /shop
+  sell:
+    description: List the item in your main hand for sale
+    usage: /sell [price-per-item]
+  soulbound:
+    description: Give yourself a Soulbound enchantment book
+    usage: /soulbound
+  offers:
+    description: Manage incoming and sent shop offers
+    usage: /offers
+  earn:
+    description: Sell items to the server for configured prices
+    usage: /earn [price <material> <amount>|prices]
+  ptp:
+    description: Request to teleport to another player
+    usage: /ptp <player>
+  ptphere:
+    description: Request another player to teleport to you
+    usage: /ptphere <player>
+  home:
+    description: Teleport to your respawn point
+    usage: /home
+  spawn:
+    description: Teleport to the world spawn
+    usage: /spawn
+  tpaccept:
+    description: Accept a teleport request
+    usage: /tpaccept <request-id>
+  tpdeny:
+    description: Decline a teleport request
+    usage: /tpdeny <request-id>
+  logjail:
+    description: Teleport and freeze a player until all log-jails are released
+    usage: /logjail <player>
+    permission: shop.logjail
+  unlogjail:
+    description: Release all log-jailed players
+    usage: /unlogjail
+  rule:
+    description: Show the server rules
+    usage: /rule
+permissions:
+  shop.admin:
+    description: Manage player balances
+    default: op
+  shop.soulbound:
+    description: Give yourself Soulbound enchantment books
+    default: op
+  shop.logjail:
+    description: Log-jail players
+    default: op

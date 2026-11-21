@@ -1,0 +1,4 @@
+name: ClientGuard
+version: 1.0.0
+main: com.eaglercraft.clientguard.ClientGuardPlugin
+description: Kicks clients reporting the Death Client brand

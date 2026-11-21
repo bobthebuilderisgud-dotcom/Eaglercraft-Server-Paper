@@ -1,0 +1,562 @@
+backpacks:
+  5f022ec0-ed8f-42e6-864e-383dfcc3f806:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 61
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      amount: 64
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND
+      amount: 3
+  9cec3427-973b-4340-9e3d-acbe1e0419bb:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          PROTECTION_ENVIRONMENTAL: 1
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          LURE: 2
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_BARDING
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 103
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          FIRE_ASPECT: 1
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 8
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: FURNACE
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 36
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 16
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          PROTECTION_PROJECTILE: 4
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: SHIELD
+      damage: 90
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          DAMAGE_ARTHROPODS: 1
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          DAMAGE_ARTHROPODS: 1
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: BED
+  a2726742-9f29-4b62-8226-22fe5c78aa1f:
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: EMERALD
+      amount: 12
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_BARDING
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+      amount: 64
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 1
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: EXPLOSIVE_MINECART
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: EXPLOSIVE_MINECART
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOAT
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: WEB
+      amount: 25
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 64
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 64
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      type: SHEARS
+      damage: 45
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 64
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 3
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 3
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 3
+          DURABILITY: 3
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: SHIELD
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 2
+          DURABILITY: 3
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      damage: 35
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLDEN_APPLE
+      amount: 4
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      damage: 7
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: EXPLOSIVE_MINECART
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+      amount: 9
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      type: RAILS
+      amount: 4
+  486a8062-6216-4689-a40e-014b41a222ac:
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: FURNACE
+      amount: 3
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 64
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 793
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE
+      amount: 64
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: BUCKET
+      amount: 2
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEATHER
+      amount: 10
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: FLINT
+      amount: 9
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE
+      damage: 3
+      amount: 64
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_PICKAXE
+      damage: 3
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_ORE
+      amount: 45
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE
+      damage: 5
+      amount: 64
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 64
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_PICKAXE
+      damage: 180
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 40
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: SAPLING
+      amount: 20
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      type: WATER_BUCKET
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      type: SUGAR_CANE
+      amount: 28
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_ORE
+      amount: 5
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: ANVIL
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: COAL
+      amount: 27
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: SAPLING
+      damage: 1
+      amount: 6
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      type: SULPHUR
+      amount: 4
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND
+      amount: 64
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+  e0582743-4bcd-4db1-a2de-0e61b6b211b0:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 64
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 64
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 64
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 64
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 64
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 64
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: WORKBENCH
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 64
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 64
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      damage: 1
+      amount: 37
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOAT
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_AXE
+      damage: 217
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_AXE
+      damage: 107
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      type: FEATHER
+      amount: 2
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: SAPLING
+      damage: 1
+      amount: 9
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE
+      amount: 64
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      type: LADDER
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 14
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOL
+      amount: 8
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 44
+  9f749647-e54d-4ffa-b9ce-2b539adeec11:
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_AXE
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_AXE
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_AXE
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_AXE
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: SHIELD
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_AXE
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_AXE
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_AXE
+  e4559fc9-5990-4498-b9f4-884df4feb00e:
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTMENT_TABLE
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 354
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 336
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 248
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 372
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 322
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 376
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 88
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 64
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 32
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: PUMPKIN
+      amount: 14
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      damage: 1
+      amount: 58
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: SULPHUR
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 5
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      type: STICK
+      amount: 49
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 64
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: COAL
+      amount: 6
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 8
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_SWORD
+      damage: 12
+  6821e675-8ddb-41a3-83e0-6ba958ab2c53:
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_INGOT
+      amount: 44
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      damage: 16
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      damage: 16
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_PICKAXE
+      damage: 437
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      damage: 40
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: SADDLE
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 54
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: SHIELD
+      damage: 60
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLDEN_APPLE
+      amount: 2
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 43
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          ARROW_INFINITE: 1
+        repair-cost: 1

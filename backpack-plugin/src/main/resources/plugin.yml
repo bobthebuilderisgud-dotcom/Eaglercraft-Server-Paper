@@ -1,0 +1,8 @@
+name: Backpack
+version: 1.0.0
+main: com.eaglercraft.backpack.BackpackPlugin
+description: Craftable backpacks with persistent shared item storage
+commands:
+  backpack:
+    description: Open or close the held backpack
+    usage: /backpack <open|close>
